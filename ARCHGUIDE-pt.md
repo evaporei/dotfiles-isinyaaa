@@ -25,6 +25,10 @@ de espaço?):
 
 ```sh
 loadkeys br-abnt2
+
+# ou o comando abaixo caso seja us-pilled
+
+loadkeys us-acentos
 ```
 
 Vamos testar se existe a pasta `/sys/firmware/efi/efivars`, ela indica se estamos num sistema com EFI boot:
